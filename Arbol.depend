@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1646369756 source:c:\users\misa_\onedrive\escritorio\estructura1\abb\arbol\nodo.cpp
+	"Nodo.h"
+	<stdlib.h>
+	<stdio.h>
+	"Nodo.h"
+
+1646369421 c:\users\misa_\onedrive\escritorio\estructura1\abb\arbol\nodo.h
+	"Personaje.h"
+	<stdlib.h>
+	<iostream>
+
+1646430126 source:c:\users\misa_\onedrive\escritorio\estructura1\abb\arbol\arbol.cpp
+	"Arbol.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<sstream>
+	<vector>
+	"Personaje.h"
+	"Nodo.h"
+
+1646372105 c:\users\misa_\onedrive\escritorio\estructura1\abb\arbol\arbol.h
+	"Nodo.h"
+
+1646376172 source:c:\users\misa_\onedrive\escritorio\estructura1\abb\arbol\main.cpp
+	<iostream>
+	"Nodo.h"
+	"Arbol.h"
+	<stdlib.h>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<sstream>
+
+1646368334 c:\users\misa_\onedrive\escritorio\estructura1\abb\arbol\include\personaje.h
+	<iostream>
+
+1646368305 source:c:\users\misa_\onedrive\escritorio\estructura1\abb\arbol\src\personaje.cpp
+	"Personaje.h"
+	<stdlib.h>
+	<stdio.h>
+
+1646430128 source:c:\users\misa_\onedrive\escritorio\subir a github\arbol\arbol.cpp
+	"Arbol.h"
+	<iostream>
+	<string>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<sstream>
+	<vector>
+	"Personaje.h"
+	"Nodo.h"
+
+1646372106 c:\users\misa_\onedrive\escritorio\subir a github\arbol\arbol.h
+	"Nodo.h"
+
+1646369422 c:\users\misa_\onedrive\escritorio\subir a github\arbol\nodo.h
+	"Personaje.h"
+	<stdlib.h>
+	<iostream>
+
+1646368336 c:\users\misa_\onedrive\escritorio\subir a github\arbol\include\personaje.h
+	<iostream>
+
+1646376174 source:c:\users\misa_\onedrive\escritorio\subir a github\arbol\main.cpp
+	<iostream>
+	"Nodo.h"
+	"Arbol.h"
+	<stdlib.h>
+	<fstream>
+	<cstdlib>
+	<cstring>
+	<sstream>
+
+1646369758 source:c:\users\misa_\onedrive\escritorio\subir a github\arbol\nodo.cpp
+	"Nodo.h"
+	<stdlib.h>
+	<stdio.h>
+	"Nodo.h"
+
+1646368306 source:c:\users\misa_\onedrive\escritorio\subir a github\arbol\src\personaje.cpp
+	"Personaje.h"
+	<stdlib.h>
+	<stdio.h>
+
